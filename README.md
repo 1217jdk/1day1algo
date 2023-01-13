@@ -9,3 +9,4 @@
 | 2023.01.09 | [12026번: BOJ 거리](https://www.acmicpc.net/problem/12026)    | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/12026) |
 | 2023.01.11 | [1965번: 상자넣기](https://www.acmicpc.net/problem/1965)      | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1965)  |
 | 2023.01.12 | [1043번: 거짓말](https://www.acmicpc.net/problem/1043)        | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1043)  |
+| 2023.01.13 | [11286번: 절댓값 힙](https://www.acmicpc.net/problem/11286)   | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/11286) |
