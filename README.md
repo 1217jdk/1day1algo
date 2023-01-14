@@ -10,4 +10,4 @@
 | 2023.01.11 | [1965번: 상자넣기](https://www.acmicpc.net/problem/1965)                 | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1965)  |
 | 2023.01.12 | [1043번: 거짓말](https://www.acmicpc.net/problem/1043)                   | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1043)  |
 | 2023.01.13 | [11286번: 절댓값 힙](https://www.acmicpc.net/problem/11286)              | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/11286) |
-| 2023.01.13 | [24460번: 특별상이라도 받고 싶어](https://www.acmicpc.net/problem/24460) | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/24460) |
+| 2023.01.14 | [24460번: 특별상이라도 받고 싶어](https://www.acmicpc.net/problem/24460) | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/24460) |
