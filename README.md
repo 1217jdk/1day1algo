@@ -13,3 +13,4 @@
 | 2023.01.14 | [24460번: 특별상이라도 받고 싶어](https://www.acmicpc.net/problem/24460) | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/24460) |
 | 2023.01.15 | [14620번: 꽃길](https://www.acmicpc.net/problem/14620)                   | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/14620) |
 | 2023.01.16 | [1405번: 미친 로봇](https://www.acmicpc.net/problem/1405)                | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1405)  |
+| 2023.01.17 | [1062번: 가르침](https://www.acmicpc.net/problem/1062)                   | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1062)  |
