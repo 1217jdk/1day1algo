@@ -15,3 +15,4 @@
 | 2023.01.16 | [1405번: 미친 로봇](https://www.acmicpc.net/problem/1405)                | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1405)  |
 | 2023.01.17 | [1062번: 가르침](https://www.acmicpc.net/problem/1062)                   | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1062)  |
 | 2023.01.18 | [1052번: 물병](https://www.acmicpc.net/problem/1052)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1052)  |
+| 2023.01.19 | [17419번: 비트가 넘쳐흘러](https://www.acmicpc.net/problem/17419)        | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/17419) |
