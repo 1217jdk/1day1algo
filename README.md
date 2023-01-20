@@ -16,3 +16,4 @@
 | 2023.01.17 | [1062번: 가르침](https://www.acmicpc.net/problem/1062)                   | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1062)  |
 | 2023.01.18 | [1052번: 물병](https://www.acmicpc.net/problem/1052)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1052)  |
 | 2023.01.19 | [17419번: 비트가 넘쳐흘러](https://www.acmicpc.net/problem/17419)        | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/17419) |
+| 2023.01.20 | [1717번: 집합의 표현](https://www.acmicpc.net/problem/1717)              | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1717)  |
