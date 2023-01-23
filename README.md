@@ -18,3 +18,5 @@
 | 2023.01.19 | [17419번: 비트가 넘쳐흘러](https://www.acmicpc.net/problem/17419)               | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/17419) |
 | 2023.01.20 | [1717번: 집합의 표현](https://www.acmicpc.net/problem/1717)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1717)  |
 | 2023.01.21 | [15787번: 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/15787) |
+| 2023.01.22 | [1966번: 프린터 큐](https://www.acmicpc.net/problem/1966)                       | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1966)  |
+| 2023.01.23 | [2467번: 용액](https://www.acmicpc.net/problem/2467)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2467)  |
