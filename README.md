@@ -20,3 +20,4 @@
 | 2023.01.21 | [15787번: 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/15787) |
 | 2023.01.22 | [1966번: 프린터 큐](https://www.acmicpc.net/problem/1966)                       | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1966)  |
 | 2023.01.23 | [2467번: 용액](https://www.acmicpc.net/problem/2467)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2467)  |
+| 2023.01.23 | [11403번: 경로 찾기](https://www.acmicpc.net/problem/11403)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/11403) |
