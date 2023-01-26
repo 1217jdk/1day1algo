@@ -22,3 +22,4 @@
 | 2023.01.23 | [2467번: 용액](https://www.acmicpc.net/problem/2467)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2467)  |
 | 2023.01.24 | [11403번: 경로 찾기](https://www.acmicpc.net/problem/11403)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/11403) |
 | 2023.01.25 | [1863번: 스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)               | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1863)  |
+| 2023.01.26 | [1080번: 행렬](https://www.acmicpc.net/problem/1080)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1080)  |
