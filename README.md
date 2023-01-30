@@ -25,4 +25,5 @@
 | 2023.01.26 | [1080번: 행렬](https://www.acmicpc.net/problem/1080)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1080)  |
 | 2023.01.27 | [16139번: 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)          | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/16139) |
 | 2023.01.28 | [1563번: 개근상](https://www.acmicpc.net/problem/1563)                          | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1563)  |
-| 2023.01.29 | [2293번: 동전1](https://www.acmicpc.net/problem/2293)                           | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2293)  |
+| 2023.01.29 | [2293번: 동전 1](https://www.acmicpc.net/problem/2293)                          | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2293)  |
+| 2023.01.30 | [15486번: 퇴사 2](https://www.acmicpc.net/problem/15486)                        | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/15486) |
