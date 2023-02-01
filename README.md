@@ -28,3 +28,4 @@
 | 2023.01.29 | [2293번: 동전 1](https://www.acmicpc.net/problem/2293)                          | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2293)  |
 | 2023.01.30 | [15486번: 퇴사 2](https://www.acmicpc.net/problem/15486)                        | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/15486) |
 | 2023.01.31 | [11657번: 타임머신](https://www.acmicpc.net/problem/11657)                      | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/11657) |
+| 2023.02.01 | [2212번: 센서](https://www.acmicpc.net/problem/2212)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2212)  |
