@@ -30,3 +30,4 @@
 | 2023.01.31 | [11657번: 타임머신](https://www.acmicpc.net/problem/11657)                      | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/11657) |
 | 2023.02.01 | [2212번: 센서](https://www.acmicpc.net/problem/2212)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2212)  |
 | 2023.02.02 | [5972번: 택배 배송](https://www.acmicpc.net/problem/5972)                       | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/5972)  |
+| 2023.02.03 | [1655번: 가운데를 말해요](https://www.acmicpc.net/problem/1655)                 | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1655)  |
