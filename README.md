@@ -32,3 +32,4 @@
 | 2023.02.02 | [5972번: 택배 배송](https://www.acmicpc.net/problem/5972)                       | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/5972)  |
 | 2023.02.03 | [1655번: 가운데를 말해요](https://www.acmicpc.net/problem/1655)                 | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1655)  |
 | 2023.02.04 | [2251번: 물통](https://www.acmicpc.net/problem/2251)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2251)  |
+| 2023.02.05 | [4811번: 알약](https://www.acmicpc.net/problem/4811)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/4811)  |
