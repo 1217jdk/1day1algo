@@ -34,3 +34,4 @@
 | 2023.02.04 | [2251번: 물통](https://www.acmicpc.net/problem/2251)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2251)  |
 | 2023.02.05 | [4811번: 알약](https://www.acmicpc.net/problem/4811)                            | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/4811)  |
 | 2023.02.06 | [10835번: 카드 게임](https://www.acmicpc.net/problem/10835)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/10835) |
+| 2023.02.07 | [16198번: 에너지 모으기](https://www.acmicpc.net/problem/16198)                 | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/16198) |
