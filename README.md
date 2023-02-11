@@ -38,3 +38,4 @@
 | 2023.02.08 | [2531번: 회전 초밥](https://www.acmicpc.net/problem/2531)                       | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/2531)  |
 | 2023.02.09 | [1038번: 감소하는 수](https://www.acmicpc.net/problem/1038)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1038)  |
 | 2023.02.10 | [1189번: 컴백홈](https://www.acmicpc.net/problem/1189)                          | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1189)  |
+| 2023.02.11 | [16234번: 인구 이동](https://www.acmicpc.net/problem/16234)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/16234) |
