@@ -39,3 +39,4 @@
 | 2023.02.09 | [1038번: 감소하는 수](https://www.acmicpc.net/problem/1038)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1038)  |
 | 2023.02.10 | [1189번: 컴백홈](https://www.acmicpc.net/problem/1189)                          | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1189)  |
 | 2023.02.11 | [16234번: 인구 이동](https://www.acmicpc.net/problem/16234)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/16234) |
+| 2023.02.13 | [1449번: 수리공 항승](https://www.acmicpc.net/problem/1449)                     | [코드](https://github.com/1217jdk/1day1algo/tree/main/BOJ/1449)  |
